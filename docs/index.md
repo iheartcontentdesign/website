@@ -1,6 +1,4 @@
 
-Follow us on [Twitter](https://twitter.com/iheartcontent).
-
 Anything missing? Submit a suggestion in a pull request.
 
 ### [Blogs & websites](blogs-websites.md)
